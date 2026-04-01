@@ -1,4 +1,4 @@
-# Excel-data-cleaning-Project
+# Revenue-Profit-Analysis
 Data cleaing project using Excel
 # Sales Data Cleaning and Analysis (Excel)
 
